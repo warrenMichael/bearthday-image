@@ -8,5 +8,5 @@ To run test, run `npm test`
 
 To run and watch test, run `npm run tdd`
 
-# View Demo
-At https://warrenmichael.github.io/bearthday-image/
+# View Live Lnk
+At https://warrenmichael.github.io/bearthday-image/index.html
