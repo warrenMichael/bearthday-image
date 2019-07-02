@@ -1,0 +1,28 @@
+{
+  "name": "bearthday-image",
+  "version": "1.0.0",
+  "description": "Bearthday Image gives you an image of the earth from NASA EPIC for your last birthday",
+  "main": "index.js",
+  "scripts": {
+    "start": "static .",
+    "test": "mocha --require esm",
+    "tdd": "mocha --watch --require esm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warrenMichael/bearthday-image.git"
+  },
+  "author": "warrenMichael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warrenMichael/bearthday-image/issues"
+  },
+  "homepage": "https://github.com/warrenMichael/bearthday-image#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "esm": "^3.2.25",
+    "mocha": "^6.1.4",
+    "node-static": "0.7.11",
+    "request": "^2.88.0"
+  }
+}
